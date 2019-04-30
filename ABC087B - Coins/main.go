@@ -5,6 +5,7 @@ import (
 )
 
 func calk() int {
+	// refer to https://qiita.com/koyo-miyamura/items/17ddf9aa70fb1479e6eb
 	var (
 		a, b, c, fee, result int
 	)
